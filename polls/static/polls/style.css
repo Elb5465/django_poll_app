@@ -1,0 +1,8 @@
+/* make all list items' links green */
+li a {  
+    color: green;
+}
+
+body {
+    background: white url("http://cdn.diply.com/img/e7de0169-8cdb-4d97-9515-6504c0a1f495.jpg") no-repeat;
+}
